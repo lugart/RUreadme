@@ -2,7 +2,7 @@
 
 ## How to make changes when maintainer is dead
 
-1. Fork [this gist](https://gist.github.com/risenforces/33e9609f8b5b67e253a6fea68e3e8fca). Or completely clone it (**not** `git clone`, you should create a **new repo**).
+1. Fork [this gist](https://gist.github.com/liquidqihl/e86337543a1d205735fa77291895b2a3). Or completely clone it (**not** `git clone`, you should create a **new repo**).
 2. Make changes.
 3. Copy embed.  
    ![](https://i.ibb.co/qRmDw92/Screenshot-9.jpg)
