@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>Liquid.qihl ReadMe</title>
+    <link
+      rel="shortcut icon"
+      href="./favicon.ico"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/3.0.1/github-markdown.min.css"
+    />
+    <style>
+      .gist {
+        max-width: 900px;
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+      }
+      .gist-file {
+        border: none !important;
+      }
+      .gist-data {
+        padding: 45px;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://gist.github.com/risenforces/33e9609f8b5b67e253a6fea68e3e8fca.js"></script>
+    <script>
+      var filter = Array.prototype.filter;
+      var links = document.querySelectorAll("a");
+      var hyperlinks = filter.call(links, function(link) {
+        return link.hash;
+      });
+      hyperlinks.forEach(function(hyperlink) {
+        hyperlink.addEventListener("click", function() {
+          var normalizedHash = window.decodeURI(hyperlink.hash);
+          var targetID = "user-content-" + normalizedHash.slice(1);
+          var target = document.getElementById(targetID);
+          var realTarget = target.parentNode;
+          var top = realTarget.getBoundingClientRect().top;
+          window.scrollTo({
+            top,
+            behavior: "smooth"
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
