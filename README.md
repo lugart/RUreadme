@@ -4,7 +4,7 @@
 
 1. Install [Node.js](https://nodejs.org/en/) and [Git SCM](https://git-scm.com/).
 2. Clone this repository:
-   `git clone https://github.com/liquidqihl/readme-ru`
+   `git clone https://github.com/liquidqihl/readme`
 3. Go to `readme-ru` directory.
 4. Open terminal. Make sure your terminal current path is `readme-ru` directory.
 5. Install dependencies:
