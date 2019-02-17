@@ -93,7 +93,7 @@ Please **read everything** above this so you understand how to interact with thi
 ![enter image description here](https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE)
 3. You're verified! If something went wrong clear your browser cache and try again. If that doesn't work, visit help-desk.  
 ![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
-4. In `#chessbot-commands` use: `!rank`
+4. In `#chessbot-commands` use: `!updateroles`
     
 Your Discord/Steam should now be linked to Chessbot and you should be able to see some new channels (on the left of Discord). If you don't see the new channels your status may be invisible on Discord or you may have used the wrong `Steam64ID`. If you have problems, ask for help in help-desk. 
 
