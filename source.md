@@ -11,8 +11,6 @@ Welcome to Liquid.qihl! This document contains everything you need to know to in
 4. [Reporting Players](#reporting-players)  
 5. [Finding, Joining, and Hosting Games](#finding-joining-and-hosting-games)  
 6. [Get Started](#get-started)  
-	5.1. [Link Discord to Steam](#link-discord-to-steam)  
-	5.2. [Link Discord/Steam to Chessbot](#link-discordsteam-to-chessbot)  
 
 ## Rules
 1. Do not threaten, dox, or ddos.
@@ -62,7 +60,7 @@ Games are arranged through Chessbot. You must enable direct messages from this s
 - `!join [DiscordName@0000]` (without `[]`)
 - `!host`
 - `!host [region]` (without `[]`)
-- `!host [region] [rank-x]` (without `[]`. `rank-x` must be `your-rank` - 2 or higher. )
+- `!host [region] [rank-x]` (without `[]`. `rank-x` must be `your-rank` - 2 or lower. )
 - `!leave`
 - `!kick [@DiscordName#0000]` (without `[]`)
 - `!start`
@@ -77,8 +75,7 @@ People can host games in any region. Look at the region when you search for the 
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
-###  Link Discord to Steam
-1. **Open Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`). Go to User Settings in Discord.  
+1. **Clear your browser cache. Open Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`). Go to User Settings in Discord.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
 2. Go to Connections. Click the Steam icon.  
 ![enter image description here](https://lh3.googleusercontent.com/0BHECBR5G8obQXgH_J1IjqotC0jAQW2sXPBsFlngSYPPS4Pu_3LlAikr0Ls0WK8ymdb7ZbLhTkE)
@@ -86,16 +83,16 @@ Please **read everything** above this so you understand how to interact with thi
 ![enter image description here](https://lh3.googleusercontent.com/Kc5SWqhe_lUFGBwGMVxmi7g3YWbHH1rouljLqFYFy0GyRZq-ECmLzWCPYVErm5gCFsQjHw6K54M)
 4. Make sure Steam appears in your list of Discord Connections.  
 ![enter image description here](https://lh3.googleusercontent.com/XnuTe3xZWuJ0P9em1hM6a1ne9QsAFjFR_QEfi5ZVSOupezvNTh0ef5r58LsxJPCxskRoDyLJods)
-### Link Discord/Steam to Chessbot
-1. **Make sure you're using Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`). Click this link: [autochessbot.vinthian.com](http://autochessbot.vinthian.com). Make sure this shows your Discord is connected to Steam, and the Discord and Steam usernames are correct. Click Authorize.  
+
+5. **Make sure you're using Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`). Click this link: [autochessbot.vinthian.com](http://autochessbot.vinthian.com). Make sure this shows your Discord is connected to Steam, and the Discord and Steam usernames are correct. Click Authorize.  
        ![enter image description here](https://lh3.googleusercontent.com/08ZHOcSVKHEjHixMc53zFEc-zsw9fckQgiyG_T6dnNpot8F3vjmseO5Hoeiye8HwmudNYGawLCY) 
-2. Make sure it shows the correct `Steam64ID`. Click `Link [Steam64ID]`.  
+6. Make sure it shows the correct `Steam64ID`. Click `Link [Steam64ID]`.  
 ![enter image description here](https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE)
-3. You're verified! If something went wrong clear your browser cache and try again. If that doesn't work, visit help-desk.  
+7. You're verified! If something went wrong clear your browser cache and try again. If that doesn't work, visit help-desk.  
 ![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
-4. In `#chessbot-commands` use: `!updateroles`
+8. In `#chessbot-commands` use: `!updateroles`
     
 Your Discord/Steam should now be linked to Chessbot and you should be able to see some new channels (on the left of Discord). If you don't see the new channels your status may be invisible on Discord or you may have used the wrong `Steam64ID`. If you have problems, ask for help in help-desk. 
 
-5. Go to`#league-region` and react to the post get tagged with a region. You can remove your reaction if you don't like the notifications.   
-6. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
+9. Go to`#league-region` and react to the post get tagged with a region. You can remove your reaction if you don't like the notifications.   
+10. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
