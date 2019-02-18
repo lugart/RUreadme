@@ -19,7 +19,8 @@
    `npm run build`
    If everything goes well, you will see the message "Success!" in your terminal.
 5. Open `index.html` in browser to check changes.
-6. Stage your changes: `git add source.md index.html`
+6. Stage your changes:
+   `git add *`
 7. Commit your changes:
    `git commit -m "update readme"`
 8. Push changes to the repo:
