@@ -7,7 +7,6 @@ Welcome to Liquid.qihl! This document contains everything you need to know to in
 1. [Rules](#rules)  
 2. [Ranks](#ranks)  
 	2.1 [Checking Ranks](#checking-ranks)  
-	2.2 [Finding Steam64IDs](#finding-steam64ids)  
 4. [Reporting Players](#reporting-players)  
 5. [Finding, Joining, and Hosting Games](#finding-joining-and-hosting-games)  
 6. [Get Started](#get-started)  
