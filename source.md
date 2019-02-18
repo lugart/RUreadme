@@ -32,14 +32,7 @@ Lobbies are organized using the following ranks:
 Use these in `#chessbot-commands`, **NOT** in `#help-desk`.
 
 - Check and update your rank: `!rank` 
-- Check someone else's rank (without `[]`): `!rank [steam64ID]` or `!rank [@DiscordName#0000]`. 
-                           
-### Finding Steam64IDs
-1. Copy and paste a Steam Profile URL (e.g. https://steamcommunity.com/id/SomeonesSteam) into  https://steamidfinder.com/.
-
-2. Click "Query" in https://steamidfinder.com/.
-
-3. Copy the `Steam64ID` from https://steamidfinder.com/ and use it for `!rank [Steam64ID]`, etc.
+- Check someone else's rank (without `[]`): `!rank [@DiscordName#0000]` 
              
 ## Reporting Players
 If you are in danger of demotion from a tier (e.g. You are `Bishop-1`, and playing in `#intermediate-lobbies-eue`) you should wait for your game to complete and your rank to update before you join another game in your current league. If your rank updates before you join your next game, but after you join the Chessbot lobby, and you are below the minimum rank for the league while in game (e.g. you lost your previous game and are now `Knight-9`) you must forfeit the game (by typing `-refresh` in game,  **NOT** in Discord) or be banned from this server. 
