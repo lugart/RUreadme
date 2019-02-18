@@ -18,7 +18,6 @@ Welcome to Liquid.qihl! This document contains everything you need to know to in
 3. Do not play in lobbies when under the minimum rank. You must forfeit (`-refresh` in game  **NOT** in Discord). Only applies to Chessbot games (not in `#intermediate-lobbies-no-bot`, etc). 
 4. Do not post lobby passwords in Chessbot lobbies. 
 5. Do not share Chessbot passwords. 
-6. If someone disconnects the host should pause (press `F9` in game) for 1 or 2 minutes as a courtesy to allow them to reconnect.
      
 ## Ranks
 Lobbies are organized using the following ranks:
