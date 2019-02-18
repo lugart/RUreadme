@@ -50,27 +50,23 @@ If a player refuses to forfeit (`-refresh` in game,  **NOT** in Discord): Post a
     
 ## Finding, Joining, and Hosting Games
 
-Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Use the following commands in `#[rank]-lobbies channels`  ONLY (e.g. `#master-lobbies`): (without `[]`)
+Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Chessbot will whisper you the password for the lobby on Discord. Copy the password > Open Auto Chess > Lobby List > Find Private Lobbies > Paste Password > Search > Join Lobby. People can host lobbies in any region. Look at the region before starting in game to see if it's acceptable to you. Use the following commands in `#[rank]-lobbies channels` **ONLY** (e.g. `#master-lobbies`): (without `[]`)
 
-- `!list`
-- `!join`
-- `!join [region]` (without `[]`)
+- `!list` to show available lobbies. 
+- `!join` to join a lobby if you're in a `#[rank]-lobbies-[region]` channel (e.g. `#intermediate-lobbies-naw`).
+- `!join [region]` (without `[]`) to join a lobby if you're in a non-`[region]` channel (e.g. `#beginner-lobbies`).
 	- Regions are: `NA`, `SA`, `EUE`, `EUW`, `RU`, `SEA`, and `OCE`
-- `!join [DiscordName@0000]` (without `[]`)
-- `!host`
-- `!host [region]` (without `[]`)
-- `!host [region] [rank-x]` (without `[]`. `rank-x` must be `your-rank` - 2 or lower. )
-- `!leave`
-- `!kick [@DiscordName#0000]` (without `[]`)
-- `!start`
-- `!cancel`
+- `!join [DiscordName@0000]` (without `[]`) to join a specific players lobby. 
+- `!leave` to leave a lobby. 
+- `!lobby [DiscordName@0000]` (without `[]`) to list the players in a players lobby. 
+- `!host` to host a lobby if you're in a `#[rank]-lobbies-[region]` channel (e.g. `#intermediate-lobbies-naw`).
+- `!host [region]` (without `[]`) if you're in a non-`[region]` channel (e.g. `#beginner-lobbies`).
+- `!host [region] [rank-x]` (without `[]`. `rank-x` must be `your-rank` - 2 or lower) to restrict the rank of your lobby. 
+- `!lobby` to list the players in your lobby. 
+- `!kick [@DiscordName#0000]` (without `[]`) to kick a player from your lobby. 
+- `!start` to start your game and close your lobby when the lobby fills (8/8 players). Please wait until everybody has loaded in before starting in game. 
+- `!cancel` to close your lobby. 
          
-To join a game use `!list` (in a `#[rank]-lobbies` channel) to show available games and `!join` to join a lobby. You can also use `!join [region]` to join a specific region if there are options, or `!join [DiscordName@0000]` to join a specific user's lobby. Chessbot will whisper you the password for the lobby on Discord. Copy the password > Open Auto Chess > Lobby List > Find Private Lobbies > Paste Password > Search > Join Lobby.
-
-If there are no games in your channel you can host one using `!host`, `!host [region]`, or `!host [region] [rank-x]` (to restrict the rank of your lobby). When the lobbies fills (8/8 players) use `!start`, then create the lobby in game with the password Chessbot direct messages you. Please wait until everybody has loaded in before starting in game. If you need to cancel the lobby you've hosted, use `!cancel`.
-
-People can host games in any region. Look at the region when you search for the lobby in game. Don't join the lobby in game if it's not a region you prefer.
-    
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
