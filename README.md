@@ -18,7 +18,8 @@
 4. Run:
    `npm run build`
    If everything goes well, you will see the message "Success!" in your terminal.
-5. Commit your changes:
+5. Open `index.html` in browser to check changes. 
+6. Commit your changes:
    `git commit -m "update readme"`
-6. Push changes to the repo:
+7. Push changes to the repo:
    `git push`
