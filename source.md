@@ -62,7 +62,7 @@ Games are arranged through Chessbot. You must enable direct messages from this s
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
-1. **<a href="https://discordapp.com/login" target="_blank">Open Discord in your web browser</a>**.
+1. Open Discord in your web browser: <a href="https://discordapp.com/login" target="_blank">discordapp.com/login</a>
 
 2. Make sure you are logged into the correct Discord account (name and number: `Name#0000`), and that you're **NOT** set to invisible. Go to User Settings.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
@@ -85,7 +85,7 @@ Please **read everything** above this so you understand how to interact with thi
 7. You're verified! If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), and try again. If that doesn't work, visit `#help-desk`.  
 ![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
 
-8. In `#chessbot-commands` use: `!rank`
+8. In `#chessbot-commands` use: `!updateroles`
     
 Your Discord/Steam should now be linked to Chessbot and you should be able to see some new channels (on the left of Discord). If you don't see the new channels your status may be invisible on Discord or you may have used the wrong `Steam64ID`. If you have problems, ask for help in help-desk. 
 
