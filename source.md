@@ -62,24 +62,22 @@ Games are arranged through Chessbot. You must enable direct messages from this s
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
-1. Open Discord in your web browser: <a href="https://discordapp.com/login" target="_blank">discordapp.com/login</a>
-
-2. Make sure you are logged into the correct Discord account (name and number: `Name#0000`), and that you're **NOT** set to invisible. Go to User Settings.  
+1. Make sure you're **NOT** set to invisible. Go to User Settings.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
 
 2. Go to Connections. Click the Steam icon.  
 ![enter image description here](https://lh3.googleusercontent.com/0BHECBR5G8obQXgH_J1IjqotC0jAQW2sXPBsFlngSYPPS4Pu_3LlAikr0Ls0WK8ymdb7ZbLhTkE)
 
-3. Click sign in. If you haven't signed into Steam in your browser, do so. Make sure you are logged into the correct Discord account (name and number: `Name#0000`).  
+3. Click sign in. If you haven't signed into Steam in your browser, do so.   
 ![enter image description here](https://lh3.googleusercontent.com/Kc5SWqhe_lUFGBwGMVxmi7g3YWbHH1rouljLqFYFy0GyRZq-ECmLzWCPYVErm5gCFsQjHw6K54M)
 
 4. Make sure Steam appears in your list of Discord Connections.  
 ![enter image description here](https://lh3.googleusercontent.com/XnuTe3xZWuJ0P9em1hM6a1ne9QsAFjFR_QEfi5ZVSOupezvNTh0ef5r58LsxJPCxskRoDyLJods)
 
-5. **Make sure you're using Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`). Click this link: [autochessbot.vinthian.com](http://autochessbot.vinthian.com). Make sure this shows your Discord is connected to Steam, and the Discord and Steam usernames are correct. Click Authorize.  
+5. Click this link: <a href="http://autochessbot.vinthian.com" target="_blank">autochessbot.vinthian.com</a>. Make sure this shows your Discord is connected to Steam, and the Discord and Steam usernames are correct. Click Authorize.  
 ![enter image description here](https://lh3.googleusercontent.com/08ZHOcSVKHEjHixMc53zFEc-zsw9fckQgiyG_T6dnNpot8F3vjmseO5Hoeiye8HwmudNYGawLCY) 
 
-6. Make sure it shows the correct `Steam64ID`. Click `Link [Steam64ID]`.  
+6. Make sure it shows the correct `Steam64ID` and Steam Username. Click `Link [Steam64ID]`.  
 ![enter image description here](https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE)
 
 7. You're verified! If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), and try again. If that doesn't work, visit `#help-desk`.  
