@@ -42,7 +42,7 @@ If a player refuses to forfeit (`-refresh` in game,  **NOT** in Discord): Post a
     
 ## Finding, Joining, and Hosting Games
 
-Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Chessbot will whisper you the password for the lobby on Discord. Copy the password > Open Auto Chess > Lobby List > Find Private Lobbies > Paste Password > Search > Join Lobby. People can host lobbies in any region. Look at the region before starting in game to see if it's acceptable to you. Use the following commands in `#[rank]-lobbies channels` **ONLY** (e.g. `#master-lobbies`): (without `[]`)
+Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Chessbot will whisper you the password for the lobby on Discord. Copy the password > Open Auto Chess > Lobby List > Find Private Lobbies > Paste Password > Search > Join Lobby. If no lobby shows up, the host may not have created it yet. Click the `refresh` button in the top-right of the page to re-search for the lobby. People can host lobbies in any region. Look at the region before starting in game to see if it's acceptable to you. Use the following commands in `#[rank]-lobbies channels` **ONLY** (e.g. `#master-lobbies`): (without `[]`)
 
 - `!list` to show available lobbies. 
 - `!join` to join a lobby if you're in a `#[rank]-lobbies-[region]` channel (e.g. `#intermediate-lobbies-naw`).
