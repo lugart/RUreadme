@@ -18,8 +18,7 @@
 <ol>
 <li><a href="#rules">Rules</a></li>
 <li><a href="#ranks">Ranks</a><br>
-2.1 <a href="#checking-ranks">Checking Ranks</a><br>
-2.2 <a href="#finding-steam64ids">Finding Steam64IDs</a></li>
+2.1 <a href="#checking-ranks">Checking Ranks</a></li>
 <li><a href="#reporting-players">Reporting Players</a></li>
 <li><a href="#finding-joining-and-hosting-games">Finding, Joining, and Hosting Games</a></li>
 <li><a href="#get-started">Get Started</a></li>
@@ -31,7 +30,6 @@
 <li>Do not play in lobbies when under the minimum rank. You must forfeit (<code>-refresh</code> in game  <strong>NOT</strong> in Discord). Only applies to Chessbot games (not in <code>#intermediate-lobbies-no-bot</code>, etc).</li>
 <li>Do not post lobby passwords in Chessbot lobbies.</li>
 <li>Do not share Chessbot passwords.</li>
-<li>If someone disconnects the host should pause (press <code>F9</code> in game) for 1 or 2 minutes as a courtesy to allow them to reconnect.</li>
 </ol>
 <h2 id="ranks">Ranks</h2>
 <p>Lobbies are organized using the following ranks:</p>
@@ -40,57 +38,44 @@
 <li>Intermediate: <code>Bishop-1</code>+</li>
 <li>Advanced: <code>Bishop-6</code>+</li>
 <li>Expert: <code>Rook-1</code>+</li>
-<li>Master: <code>Rook-4</code>+</li>
+<li>Master: <code>Rook-5</code>+</li>
 </ul>
 <h3 id="checking-ranks">Checking Ranks</h3>
 <p>Use these in <code>#chessbot-commands</code>, <strong>NOT</strong> in <code>#help-desk</code>.</p>
 <ul>
-<li>Check and update your rank: <code>!rank</code></li>
-<li>Check someone else’s rank (without <code>[]</code>): <code>!rank [steam64ID]</code> or <code>!rank [@DiscordName#0000]</code>.</li>
+<li>Check and update your rank (use this to get new roles when you rank up): <code>!rank</code></li>
+<li>Check someone else’s rank (without <code>[]</code>): <code>!rank [@DiscordName#0000]</code></li>
 </ul>
-<h3 id="finding-steam64ids">Finding Steam64IDs</h3>
-<ol>
-<li>
-<p>Copy and paste a Steam Profile URL (e.g. <a href="https://steamcommunity.com/id/SomeonesSteam">https://steamcommunity.com/id/SomeonesSteam</a>) into  <a href="https://steamidfinder.com/">https://steamidfinder.com/</a>.</p>
-</li>
-<li>
-<p>Click “Query” in <a href="https://steamidfinder.com/">https://steamidfinder.com/</a>.</p>
-</li>
-<li>
-<p>Copy the <code>Steam64ID</code> from <a href="https://steamidfinder.com/">https://steamidfinder.com/</a> and use it for <code>!rank [Steam64ID]</code>, etc.</p>
-</li>
-</ol>
 <h2 id="reporting-players">Reporting Players</h2>
 <p>If you are in danger of demotion from a tier (e.g. You are <code>Bishop-1</code>, and playing in <code>#intermediate-lobbies-eue</code>) you should wait for your game to complete and your rank to update before you join another game in your current league. If your rank updates before you join your next game, but after you join the Chessbot lobby, and you are below the minimum rank for the league while in game (e.g. you lost your previous game and are now <code>Knight-9</code>) you must forfeit the game (by typing <code>-refresh</code> in game,  <strong>NOT</strong> in Discord) or be banned from this server.</p>
 <p>Players that experience this in your games, please consider not caring about a one-rank difference in your game. It doesn’t have a serious impact, and is often an honest mistake. Making a big deal of these instances is seldom beneficial for anyone. This is not an invitation to do this, however, and we do not condone this behavior. We will be handing out bans for this, so please be careful.</p>
 <p>If a player refuses to forfeit (<code>-refresh</code> in game,  <strong>NOT</strong> in Discord): Post a screenshot, their Steam Profile URL, and the final Chessbot Lobby message (after the host uses <code>!start</code>) to <code>#player-reports</code>. This does <strong>NOT</strong> apply to lobbies without Chessbot (e.g. <code>#intermediate-lobbies-no-bot</code>); we don’t enforce ranks in lobbies without Chessbot.</p>
 <h2 id="finding-joining-and-hosting-games">Finding, Joining, and Hosting Games</h2>
-<p>Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Use the following commands in <code>#[rank]-lobbies channels</code>  ONLY (e.g. <code>#master-lobbies</code>): (without <code>[]</code>)</p>
+<p>Games are arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Chessbot will whisper you the password for the lobby on Discord. Copy the password &gt; Open Auto Chess &gt; Lobby List &gt; Find Private Lobbies &gt; Paste Password &gt; Search &gt; Join Lobby. People can host lobbies in any region. Look at the region before starting in game to see if it’s acceptable to you. Use the following commands in <code>#[rank]-lobbies channels</code> <strong>ONLY</strong> (e.g. <code>#master-lobbies</code>): (without <code>[]</code>)</p>
 <ul>
-<li><code>!list</code></li>
-<li><code>!join</code></li>
-<li><code>!join [region]</code> (without <code>[]</code>)
+<li><code>!list</code> to show available lobbies.</li>
+<li><code>!join</code> to join a lobby if you’re in a <code>#[rank]-lobbies-[region]</code> channel (e.g. <code>#intermediate-lobbies-naw</code>).</li>
+<li><code>!join [region]</code> (without <code>[]</code>) to join a lobby if you’re in a non-<code>[region]</code> channel (e.g. <code>#beginner-lobbies</code>).
 <ul>
 <li>Regions are: <code>NA</code>, <code>SA</code>, <code>EUE</code>, <code>EUW</code>, <code>RU</code>, <code>SEA</code>, and <code>OCE</code></li>
 </ul>
 </li>
-<li><code>!join [DiscordName@0000]</code> (without <code>[]</code>)</li>
-<li><code>!host</code></li>
-<li><code>!host [region]</code> (without <code>[]</code>)</li>
-<li><code>!host [region] [rank-x]</code> (without <code>[]</code>. <code>rank-x</code> must be <code>your-rank</code> - 2 or lower. )</li>
-<li><code>!leave</code></li>
-<li><code>!kick [@DiscordName#0000]</code> (without <code>[]</code>)</li>
-<li><code>!start</code></li>
-<li><code>!cancel</code></li>
+<li><code>!join [DiscordName@0000]</code> (without <code>[]</code>) to join a specific players lobby.</li>
+<li><code>!leave</code> to leave a lobby.</li>
+<li><code>!lobby [DiscordName@0000]</code> (without <code>[]</code>) to list the players in a players lobby.</li>
+<li><code>!host</code> to host a lobby if you’re in a <code>#[rank]-lobbies-[region]</code> channel (e.g. <code>#intermediate-lobbies-naw</code>).</li>
+<li><code>!host [region]</code> (without <code>[]</code>) if you’re in a non-<code>[region]</code> channel (e.g. <code>#beginner-lobbies</code>).</li>
+<li><code>!host [region] [rank-x]</code> (without <code>[]</code>. <code>rank-x</code> must be <code>your-rank</code> - 2 or lower) to restrict the rank of your lobby.</li>
+<li><code>!lobby</code> to list the players in your lobby.</li>
+<li><code>!kick [@DiscordName#0000]</code> (without <code>[]</code>) to kick a player from your lobby.</li>
+<li><code>!start</code> to start your game and close your lobby when the lobby fills (8/8 players). Please wait until everybody has loaded in before starting in game.</li>
+<li><code>!cancel</code> to close your lobby.</li>
 </ul>
-<p>To join a game use <code>!list</code> (in a <code>#[rank]-lobbies</code> channel) to show available games and <code>!join</code> to join a lobby. You can also use <code>!join [region]</code> to join a specific region if there are options, or <code>!join [DiscordName@0000]</code> to join a specific user’s lobby. Chessbot will whisper you the password for the lobby on Discord. Copy the password &gt; Open Auto Chess &gt; Lobby List &gt; Find Private Lobbies &gt; Paste Password &gt; Search &gt; Join Lobby.</p>
-<p>If there are no games in your channel you can host one using <code>!host</code>, <code>!host [region]</code>, or <code>!host [region] [rank-x]</code> (to restrict the rank of your lobby). When the lobbies fills (8/8 players) use <code>!start</code>, then create the lobby in game with the password Chessbot direct messages you. Please wait until everybody has loaded in before starting in game. If you need to cancel the lobby you’ve hosted, use <code>!cancel</code>.</p>
-<p>People can host games in any region. Look at the region when you search for the lobby in game. Don’t join the lobby in game if it’s not a region you prefer.</p>
 <h2 id="get-started">Get Started</h2>
 <p>Please <strong>read everything</strong> above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.</p>
 <ol>
 <li>
-<p><strong><a href="https://discordapp.com/channels/@me" target="_blank">Open Discord in your web browser</a></strong>.</p>
+<p><strong><a href="https://discordapp.com/login" target="_blank">Open Discord in your web browser</a></strong>.</p>
 </li>
 <li>
 <p>Make sure you are logged into the correct Discord account (name and number: <code>Name#0000</code>), and that you’re <strong>NOT</strong> set to invisible. Go to User Settings.<br>
@@ -101,7 +86,7 @@
 <img src="https://lh3.googleusercontent.com/0BHECBR5G8obQXgH_J1IjqotC0jAQW2sXPBsFlngSYPPS4Pu_3LlAikr0Ls0WK8ymdb7ZbLhTkE" alt="enter image description here"></p>
 </li>
 <li>
-<p>Click sign in. If you haven’t signed into Steam in your browser, do so.<br>
+<p>Click sign in. If you haven’t signed into Steam in your browser, do so. Make sure you are logged into the correct Discord account (name and number: <code>Name#0000</code>).<br>
 <img src="https://lh3.googleusercontent.com/Kc5SWqhe_lUFGBwGMVxmi7g3YWbHH1rouljLqFYFy0GyRZq-ECmLzWCPYVErm5gCFsQjHw6K54M" alt="enter image description here"></p>
 </li>
 <li>
@@ -117,11 +102,11 @@
 <img src="https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE" alt="enter image description here"></p>
 </li>
 <li>
-<p>You’re verified! If something went wrong clear your browser cache and try again. If that doesn’t work, visit help-desk.<br>
+<p>You’re verified! If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: <code>Name#0000</code>), and try again. If that doesn’t work, visit <code>#help-desk</code>.<br>
 <img src="https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8" alt="enter image description here"></p>
 </li>
 <li>
-<p>In <code>#chessbot-commands</code> use: <code>!updateroles</code></p>
+<p>In <code>#chessbot-commands</code> use: <code>!rank</code></p>
 </li>
 </ol>
 <p>Your Discord/Steam should now be linked to Chessbot and you should be able to see some new channels (on the left of Discord). If you don’t see the new channels your status may be invisible on Discord or you may have used the wrong <code>Steam64ID</code>. If you have problems, ask for help in help-desk.</p>
