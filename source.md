@@ -75,7 +75,8 @@ People can host games in any region. Look at the region when you search for the 
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
-1. **Clear your browser cache. Open Discord in your web browser.** Make sure you are logged into the correct Discord account (name and number: `Name#0000`), and that you're **NOT** set to invisible. Go to User Settings in Discord.  
+1. **<a href="https://discordapp.com/channels/@me" target="_blank">Open Discord in your web browser</a>**. 
+2. Make sure you are logged into the correct Discord account (name and number: `Name#0000`), and that you're **NOT** set to invisible. Go to User Settings.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
 2. Go to Connections. Click the Steam icon.  
 ![enter image description here](https://lh3.googleusercontent.com/0BHECBR5G8obQXgH_J1IjqotC0jAQW2sXPBsFlngSYPPS4Pu_3LlAikr0Ls0WK8ymdb7ZbLhTkE)
