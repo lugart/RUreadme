@@ -60,7 +60,7 @@ Games are arranged through Chessbot. You must enable direct messages from this s
 - `!cancel` to close your lobby. 
          
 ## Get Started
-Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
+Please **read everything above** this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you.
  
 1. Make sure you're **NOT** set to invisible. Go to User Settings.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
