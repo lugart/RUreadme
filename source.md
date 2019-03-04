@@ -83,11 +83,8 @@ Please **read everything** above this so you understand how to interact with thi
 6. Make sure it shows the correct `Steam64ID` and Steam Username. Click `Link [Steam64ID]`.  
 ![enter image description here](https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE)
 
-7. You're verified! You should be able to see some new channels in Discord (on the left. e.g. `#beginner-lobbies`). If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), make sure you aren't set to invisible on Discord, and try again. If that doesn't work, visit `#help-desk`.  
-![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
+7. You're verified![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
 
-8. In `#chessbot-commands` use: `!updateroles`
+8. In `#chessbot-commands` use: `!updateroles`. You should be able to see some new channels in Discord (on the left. e.g. `#beginner-lobbies`). If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), make sure you aren't set to invisible on Discord, and try again. If that doesn't work, visit `#help-desk`.  
     
-9. Go to`#league-region` and react to the post get tagged with a region. You can remove your reaction if you don't like the notifications.   
-
-10. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
+9. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
