@@ -15,11 +15,12 @@ Welcome to Liquid.qihl! This document contains everything you need to know to in
 Breaking these rules will result in a being **BANNED**.
 
 1. Do not threaten, harass, dox, or ddos.
-2. Do not break Discord ToS.
-3. Do not play in lobbies when under the minimum rank. You must forfeit (`-refresh` in game  **NOT** in Discord). Only applies to Chessbot games (not in `#intermediate-lobbies-no-bot`, etc). 
-4. Do not post lobby passwords in Chessbot lobbies. 
-5. Do not share Chessbot passwords (this includes joining a Chessbot lobby as a party). 
-6. Use the same Steam account in game as when you join/host a lobby in Discord. 
+2. Do not be hateful, racist, etc. Be nice. 
+3. Do not break Discord ToS (includes cheating).
+4. Do not play in lobbies when under the minimum rank. You must forfeit (`-refresh` in game  **NOT** in Discord). Only applies to Chessbot games (not in `#intermediate-lobbies-no-bot`, etc). 
+5. Do not post lobby passwords in Chessbot lobbies. 
+6. Do not share Chessbot passwords (this includes joining a Chessbot lobby as a party). 
+7. Use the same Steam account in game as when you join/host a lobby in Discord. 
 
 ## Ranks
 Lobbies are organized using the following ranks:
@@ -29,6 +30,7 @@ Lobbies are organized using the following ranks:
 - Advanced: `Bishop-6`+
 - Expert: `Rook-1`+
 - Master: `Rook-5`+
+- Royalty: `King`+
          
 ### Checking Ranks
 Use these in `#chessbot-commands`, **NOT** in `#help-desk`.
@@ -65,7 +67,7 @@ Games are arranged through Chessbot. You must enable direct messages from this s
 ## Get Started
 Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you. You can repeat the steps below to link a multiple Steam accounts to Discord, or to switch your active Steam account (you must use the same Steam account in-game as when you join/host a lobby in Discord).
  
-1. Make sure you're **NOT** set to invisible. Go to User Settings.  
+1. You must play at least five games to get a rank in game. Without a rank, you cannot interact with Chessbot. Please do this before joining qihl. Make sure you're **NOT** set to invisible. Go to User Settings.  
 ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
 
 2. Go to Connections. Click the Steam icon.  
