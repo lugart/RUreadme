@@ -35,8 +35,9 @@ Lobbies are organized using the following ranks:
 ### Checking Ranks
 Use these in `#chessbot-commands`, **NOT** in `#help-desk`.
 
-- Check and update your rank (use this to get new roles when you rank up): `!rank` 
-- Check someone else's rank (without `[]`): `!rank [@DiscordName#0000]` 
+- `!rank` Check and update your rank
+- `!rank [@DiscordName#0000]` Check someone else's rank (without `[]`)
+- `!updateroles` Use this when you rank up to get access to higher lobbies.
              
 ## Reporting Players
 If you are in danger of demotion from a tier (e.g. You are `Bishop-1`, and playing in `#intermediate-lobbies-eue`) you should wait for your game to complete and your rank to update before you join another game in your current league. If your rank updates before you join your next game, but after you join the Chessbot lobby, and you are below the minimum rank for the league while in game (e.g. you lost your previous game and are now `Knight-9`) you must forfeit the game (by typing `-refresh` in game,  **NOT** in Discord) or be banned from this server. 
