@@ -25,12 +25,12 @@ Breaking these rules will result in a being **BANNED**.
 ## Ranks
 Lobbies are organized using the following ranks:
 
-- Beginner: `Unknown`+
+- Beginner: `Pawn-1`+
 - Intermediate: `Bishop-1`+
 - Advanced: `Bishop-6`+
 - Expert: `Rook-1`+
 - Master: `Rook-5`+
-- Royalty: `King`+
+- Royalty: `Queen`+
          
 ### Checking Ranks
 Use these in `#chessbot-commands`, **NOT** in `#help-desk`.
@@ -88,6 +88,8 @@ Please **read everything** above this so you understand how to interact with thi
 
 7. You're verified![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
 
-8. In `#chessbot-commands` use: `!updateroles`. You should be able to see some new channels in Discord (on the left. e.g. `#beginner-lobbies`). If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), make sure you aren't set to invisible on Discord, and try again. If that doesn't work, visit `#help-desk`.  
+8. **Go to `#chessbot-commands` channel and use: `!updateroles`.**
+	- You should be able to see some new channels in Discord (on the left. e.g. `#beginner-lobbies`). If something went wrong: clear your browser cache, make sure you are logged into the correct Discord account (name and number: `Name#0000`), make sure you aren't set to invisible on Discord, and try again. If that doesn't work, visit `#help-desk`.  
     
 9. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
+	- Because of the heavy load on our discord server, sometimes the bot lobbies have been disabled. If this happens you can't write in the bot lobbies (e.g. #beginner-lobbies-euw). In that case use the lobbies lableled no-bot to find games manually.
