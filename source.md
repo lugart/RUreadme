@@ -6,7 +6,7 @@ Welcome to Liquid.qihl! This document contains everything you need to know to in
 
 1. [Rules](#rules)  
 2. [Ranks](#ranks)  
-	2.1 [Checking ranks and updating roles](#checking-ranks-and-updating-roles)  
+	2.1 [Checking Ranks and Updating Roles](#checking-ranks-and-updating-roles)  
 4. [Reporting Players](#reporting-players)  
 5. [Finding, Joining, and Hosting Games](#finding-joining-and-hosting-games)  
 6. [Get Started](#get-started)
@@ -32,11 +32,9 @@ Lobbies are organized using the following ranks:
 - Master: `Rook-5`+
 - Royalty: `Queen`+
          
-### Checking ranks and updating roles
+### Checking Ranks and Updating Roles
 To verify and update your in-game rank, send a direct message to @ChessBot1 with the following command:  !r
-
 Chessbot will  DM you your current rank and role in a direct message. Make sure you have DMs enabled in Discord
-
 You can find Chessbot on the top-right corner of your screen in discord, and right-click its icon to DM.
              
 ## Reporting Players
@@ -100,9 +98,7 @@ Please **read everything** above this so you understand how to interact with thi
 7. You're verified![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
 
 8. To verify and update your in-game rank, send a direct message to ChessBot with the following command:  !r
-
 Chessbot will DM you your current rank and role in a direct message. Make sure you have DMs enabled in Discord.
-
 You can find Chessbot on the top-right corner of your screen in discord, and right-click its icon to DM.
     
 9. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
