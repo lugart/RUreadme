@@ -1,108 +1,115 @@
+readme_RU
+
 # Liquid.qihl README
 
-Welcome to Liquid.qihl! This document contains everything you need to know to interact with this server. Please read all of it before posting to `#help-desk`, it will save you and the staff time and patience. Thank you for joining us!
+Добро пожаловать в Liquid,qihl! Здесь содержится вся необходимая информация для того, чтобы начать играть на нашем сервере. Пожалуйста, ознакомьтесь со всей информацией прежде чем писать в `#help-desk`, это сохранит вам и сотрудникам время и терпение. Спасибо, что присоединились к нам!
 
-## Contents
+## Содержание
 
-1. [Rules](#rules)  
-2. [Ranks](#ranks)  
-	2.1 [Checking Ranks and Updating Roles](#checking-ranks-and-updating-roles)  
-4. [Reporting Players](#reporting-players)  
-5. [Finding, Joining, and Hosting Games](#finding-joining-and-hosting-games)  
-6. [Get Started](#get-started)
+1.  [Правила](https://liquidqihl.github.io/readme-ru/#pravila)
+2.  [Ранги](%5Bhttps://liquidqihl.github.io/readme-ru/#rangi%5D(https://liquidqihl.github.io/readme-ru/#rangi))  
+    2.1 [Проверить Ранги и Обновить Роли](https://liquidqihl.github.io/readme-ru/#proverit-rangi-i-obnovitj-roli)
+3.  [Как пожаловаться на игрока](https://liquidqihl.github.io/readme-ru/#kak-pozhalovatsya-na-igroka)
+4.  [Как найти и присоединиться к лобби, или создать его](https://liquidqihl.github.io/readme-ru/#kak-naiti-i-prisoedinitsya-k-lobbi-ili-sozdat-ego)
+5.  [Как начать играть](%5Bhttps://liquidqihl.github.io/readme-ru/#kak-nachatj-igratj%5D(https://liquidqihl.github.io/readme-ru/#rangi))
 
-## Rules
-Breaking these rules will result in being **BANNED**.
+## Правила
 
-1. Do not threaten, harass, dox, or ddos.
-2. Do not be hateful, racist, etc. Be nice. 
-3. Do not break Discord ToS (includes cheating). https://discordapp.com/terms
-4. Do not play in lobbies when under the minimum rank. You must forfeit (`-refresh` in game  **NOT** in Discord). Only applies to Chessbot games.
-5. Do not post lobby passwords in Chessbot lobbies. 
-6. Do not share Chessbot passwords (this includes joining a Chessbot lobby as a party). 
-7. Use the same Steam account in game as when you join/host a lobby in Discord. If you would like to link a second steam account to the same discord account, it’s doable and is explained in the [Get Started](#get-started) section.
+Нарушая эти правила вы будете **ЗАБАНЕНЫ**.  
+Запрещается:
 
-## Ranks
-Lobbies are organized using the following ranks:
+1.  Угрожать разглашением чьей-либо персональной информации, устраивать DDoS-атаки на серверы Discord или серверы DAC.
+2.  Проявлять ненависть, расизм и т.д. Будьте милыми.
+3.  Нарушать условия использования Discord. [https://discordapp.com/terms](https://discordapp.com/terms)
+4.  Играть в лобби, имея ранг ниже требуемого.  
+    Если же это все-таки произошло, вы обязаны сдаться (написать `-refresh` в чате **игры**). Правило действует только на лобби, которые были созданы **через бота**.
+5.  Писать пароль от лобби в комнатах с ботом.
+6.  Разглашать пароли от лобби (это касается также присоединения в Лобби группой )
+7.  Использовать другую учетную запись при подключении. Используйте, пожалуйста ту же учетную запись Steam, что и в лобби Discord. Если вы хотите привязать еще один steam аккаунт в этот же дискорд, то проделайте еще раз пункты указанные в разделе \[[Как начать играть](https://liquidqihl.github.io/readme-ru/#kak-nachat-igrat)\]
 
-- Beginner: `Pawn-1`+
-- Intermediate: `Bishop-1`+
-- Advanced: `Bishop-6`+
-- Expert: `Rook-1`+
-- Master: `Rook-5`+
-- Royalty: `Queen`+
-         
-### Checking Ranks and Updating Roles
+## Ранги
 
-- To verify and update your in-game rank, send a direct message to @ChessBot1 with the following command:  !r
-- Chessbot will  DM you your current rank and role in a direct message. Make sure you have DMs enabled in Discord
-- You can find Chessbot on the top-right corner of your screen in discord, and right-click its icon to DM.
-             
-## Reporting Players
+Лобби на сервере организованы следующим образом:
 
-To learn how to report someone properly, go to #report-readme before anything else.
+-   Beginner: `Пешка-1` и выше
+-   Intermediate: `Слон-1` и выше
+-   Advanced: `Слон-6` и выше
+-   Expert: `Ладья-1` и выше
+-   Master: `Ладья-5` и выше
+-   Royalty: `Ферзь` и выше
 
-If you are in danger of demotion from a tier (e.g. You are Bishop-1, and playing in #intermediate-lobbies-eue) you should wait for your game to complete and your rank to update before you join another game. If your rank updates before you join your next game, but after you join the Chessbot lobby, and you are below the minimum rank for the league while in game (e.g. you lost your previous game and are now Knight-9) you must forfeit the game (by typing -refresh in game, NOT in Discord) or be banned from this server.
+### Проверить ранги и Обновить Роли
 
-Players that experience this in your games, please consider not caring about a one-rank difference. It doesn’t have a serious impact, and is often an honest mistake. Making a big deal of these instances is seldom beneficial for anyone. This is not an invitation to do this, however, and we do not condone this behavior. We will be handing out bans for this, so please be careful.
+-   Что бы подтвердить и обновить ваш игровой ранг нужно отправить личное сообщение @ChessBot1 с соответствующей командой !r.
+-   ChessBot отправит вам ваш ранг и роль в личные сообщения. Убедитесь, что вы не отключили личные сообщения в настройках приватности дискорда.
+-   Вы можете найти Chessbot в верхнем-правом углу вашего окна Discord, нажать на него правой кнопкой мыши и “Отправить сообщение”.
 
-If a player refuses to forfeit (-refresh in game, NOT in Discord): Post a screenshot of the game, their Steam Profile URL, and the final Chessbot Lobby message (after the host uses !start) to #player-reports. If you don’t provide all three of these things, the report won’t be considered. 
+## Как пожаловаться на игрока
 
-This does NOT apply to lobbies without Chessbot (e.g. #intermediate-lobbies-no-bot); we don’t enforce ranks in lobbies without Chessbot. This is why the Terminate Game feature was implemented.  If you need to report a player for some other reason, explain the reason in #player-reports.
+Прежде чем жаловаться на игрока, прочитайте пожалуйста #report-readme.
+
+Если вы находитесь на грани понижения вашего ранга (например вы Слон-1 и играете в #intermediate-lobbies-eue) то вы должны дождаться окончания своей игры и обновить ранг прежде чем присоединяться в другую игру. Если ваш ранг обновился до того, как вы подключились в следующую игру, но вы уже присоединились в лобби с ботом, и ваш ранг ниже требуемого для игры в лобби (например вы проиграли прошлую игру и сейчас вы Конь-9) тогда вы должны сдаться (напишите -refresh в игре, не в Discord) или будете забанены на сервере.
+
+Игроки, которые испытывают это в своих играх, пожалуйста, не думайте о разнице в один ранг. Это не оказывает серьезного влияния и часто является ошибочным мнением. Однако создание большинства таких случаев, редко выгодно кому-либо. Это не приглашение так поступать, однако мы не оправдываем такое поведение. Мы будем раздавать баны за это, так что пожалуйста будьте аккуратны.
+
+Если игрок отказывается сдаваться (-refresh в игре, **НЕ** в Discord): Отправьте скриншот игры, его ссылку на Steam профиль и сообщения бота из лобби (после того как хост прописал !start) в #player-reports. Если вы не предоставите все эти три пункта, отчет не будет рассматриваться.
+
+Это **НЕ** относится к лобби без Chessbot (например, # intermediate-lobbies-no-bot); мы не контролируем ранги в лобби без использования Chessbot. Вот почему была реализована функция «Завершение игры». Если вам нужно сообщить о игроке по какой-то другой причине, объясните ее в # player-reports.
+
+## Как найти и присоединиться к лобби, или создать его
+
+Важное примечание: из-за большой нагрузки на наш дискорд-сервер иногда лобби ботов могут быть отключены. Если это произойдет, вы не сможете писать в бот-лобби (например, # beginner-lobbies-euw). В этом случае используйте лобби с надписью «no-bot», чтобы найти игры вручную.
+
+Это можно сделать, войдя в лобби для своего региона, найдя пароль для лобби вашего ранга (например, введя # beginner-no-bot-naw и выбрав игру K (ваш ранг)), затем скопировав и вставив пароль, как если бы вы искали игру, организованную через Сhessbot.
+
+Если вы решите СОЗДАТЬ игру без бота, ПОЖАЛУЙСТА, опубликуйте свою игру В ВАШЕМ РЕГИОНЕ. Игроки будут заглушены(мут) за публикацию лобби за пределами своего региона.
+
+Игры, как правило, организуются через Chessbot. Вы должны разрешить прямые сообщения с сервера для взаимодействия с Chessbot. Chessbot подскажет вам в Discord пароль для входа. Скопируйте пароль> Откройте Аркады > Список лобби> Закрытое лобби> Вставьте пароль> Ок> Присоединиться к лобби. Если лобби не появляется, возможно, хост еще не создал его. Нажмите кнопку обновления в правом верхнем углу страницы, чтобы выполнить повторный поиск лобби. Люди могут создавать лобби в любом регионе. Посмотрите на регион, прежде чем начать игру, чтобы увидеть, приемлемо ли это для вас. Используйте следующие команды только в каналах #\[rank\]-lobies (например, `#master-lobbies`): (без `[]`)
+
+-   `!list` показать доступные лобби.
+-   `!join` присоединиться в лобби если вы в `#[rank]-lobbies-[region]` канале (например `#intermediate-lobbies-naw`).
+-   `!join [region]` (без `[]`) присоединиться в лобби если вы в без`[region]` канале ( например `#beginner-lobbies`).
+    -   Доступные регионы: `NA`, `SA`, `EUE`, `EUW`, `RU`, `SEA`, и `OCE`
+-   `!join [@DiscordName#0000]` (без `[]`) подключиться к лобби указанного игрока.
+-   `!leave` выйти из лобби.
+-   `!lobby [@DiscordName#0000]` (без `[]`) показать список игроков в лобби у пользователя.
+-   `!host` создать лобби если вы в `#[rank]-lobbies-[region]` канале (например `#intermediate-lobbies-naw`).
+-   `!host [region]` (без `[]`) если вы в без-`[region]` канале (например `#beginner-lobbies`).
+-   `!host [region] [rank-x]` (без `[]`. `rank-x` должен быть `ваш-ранг` \- 2 или ниже) ограничить ранг вашего лобби.
+-   `!lobby` показать список игроков в вашем лобби.
+-   `!kick [@DiscordName#0000]` (without `[]`) выгнать игрока из вашего лобби.
+-   `!start` начать вашу игру и закрыть лобби когда она заполнится (8/8 players). Пожалуйста, подождите, пока все загрузятся, прежде чем начинать игру.
+-   `!cancel` закрыть ваше лобби.
+
+## Как начать играть
+
+Пожалуйста, прочитайте **все** выше указанное, чтобы вы понимали, как взаимодействовать с сервером. Это сэкономит вам и сотрудникам время. Спасибо. Вы можете повторить шаги, описанные ниже, чтобы связать несколько учетных записей Steam с Discord или переключить активную учетную запись Steam (вы должны использовать ту же учетную запись Steam в игре, что и при присоединении / создании лобби в Discord).
+
+1.  Вы должны сыграть не менее пяти игр, чтобы получить звание в игре. Без звания вы не можете взаимодействовать с Chessbot. Пожалуйста, сделайте это, прежде чем присоединиться к Qihl. Убедитесь, что у вас НЕ включен режим невидимости. Зайдите в настройки пользователя.  
+    ![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
     
-## Finding, Joining, and Hosting Games
-
-Important note: Because of the heavy load on our discord server, sometimes the bot lobbies have been disabled. If this happens you can’t write in the bot lobbies (e.g. #beginner-lobbies-euw). In that case use the lobbies labelled “no-bot” to find games manually.
-
-This can be done by entering the lobby for your region, finding a password for a lobby of your rank (for example, entering #beginner-no-bot-naw and picking a K(your rank number) game) then copying and pasting the password as you would to search for a game organised by chessbot.
-
-If you choose to HOST a no bot game, PLEASE post your game IN YOUR REGION. Players will be muted for posting outside of their region.
-
-Games are usually arranged through Chessbot. You must enable direct messages from this server to interact with Chessbot. Chessbot will whisper you the password for the lobby on Discord. Copy the password > Open Auto Chess > Lobby List > Find Private Lobbies > Paste Password > Search > Join Lobby. If no lobby shows up, the host may not have created it yet. Click the refresh button in the top-right of the page to re-search for the lobby. People can host lobbies in any region. Look at the region before starting in game to see if it’s acceptable to you. Use the following commands in `#[rank]-lobbies channels` **ONLY** (e.g. `#master-lobbies`): (without `[]`)
-
-- `!list` to show available lobbies. 
-- `!join` to join a lobby if you're in a `#[rank]-lobbies-[region]` channel (e.g. `#intermediate-lobbies-naw`).
-- `!join [region]` (without `[]`) to join a lobby if you're in a non-`[region]` channel (e.g. `#beginner-lobbies`).
-	- Regions are: `NA`, `SA`, `EUE`, `EUW`, `RU`, `SEA`, and `OCE`
-- `!join [@DiscordName#0000]` (without `[]`) to join a specific players lobby. 
-- `!leave` to leave a lobby. 
-- `!lobby [@DiscordName#0000]` (without `[]`) to list the players in a players lobby. 
-- `!host` to host a lobby if you're in a `#[rank]-lobbies-[region]` channel (e.g. `#intermediate-lobbies-naw`).
-- `!host [region]` (without `[]`) if you're in a non-`[region]` channel (e.g. `#beginner-lobbies`).
-- `!host [region] [rank-x]` (without `[]`. `rank-x` must be `your-rank` - 2 or lower) to restrict the rank of your lobby. 
-- `!lobby` to list the players in your lobby. 
-- `!kick [@DiscordName#0000]` (without `[]`) to kick a player from your lobby. 
-- `!start` to start your game and close your lobby when the lobby fills (8/8 players). Please wait until everybody has loaded in before starting in game. 
-- `!cancel` to close your lobby. 
-         
-## Get Started
-Please **read everything** above this so you understand how to interact with this server. It will save you and the staff time and questions. Thank you. You can repeat the steps below to link multiple Steam accounts to Discord, or to switch your active Steam account (you must use the same Steam account in-game as when you join/host a lobby in Discord).
- 
-1. You must play at least five games to get a rank in game. Without a rank, you cannot interact with Chessbot. Please do this before joining qihl. Make sure you're **NOT** set to invisible. Go to User Settings.  
-![enter image description here](https://lh3.googleusercontent.com/BKWZi8LTdT8v6fdAQiwyLtOuR_jFj5CBjvxObViUGdM7F4jxnlGH3CxAfKgkP075SDZFcx0FvYY)
-
-2. Go to Connections. Click the Steam icon.  
-![enter image description here](https://lh3.googleusercontent.com/0BHECBR5G8obQXgH_J1IjqotC0jAQW2sXPBsFlngSYPPS4Pu_3LlAikr0Ls0WK8ymdb7ZbLhTkE)
-
-3. Click sign in. If you haven't signed into Steam in your browser, do so.   
-![enter image description here](https://lh3.googleusercontent.com/Kc5SWqhe_lUFGBwGMVxmi7g3YWbHH1rouljLqFYFy0GyRZq-ECmLzWCPYVErm5gCFsQjHw6K54M)
-
-4. Make sure Steam appears in your list of Discord Connections.  
-![enter image description here](https://lh3.googleusercontent.com/XnuTe3xZWuJ0P9em1hM6a1ne9QsAFjFR_QEfi5ZVSOupezvNTh0ef5r58LsxJPCxskRoDyLJods)
-
-5. Click this link: <a href="http://autochessbot.vinthian.com" target="_blank">autochessbot.vinthian.com</a>. Make sure this shows your Discord is connected to Steam, and the Discord and Steam usernames are correct. Click Authorize.  
-![enter image description here](https://lh3.googleusercontent.com/08ZHOcSVKHEjHixMc53zFEc-zsw9fckQgiyG_T6dnNpot8F3vjmseO5Hoeiye8HwmudNYGawLCY) 
-
-6. Make sure it shows the correct `Steam64ID` and Steam Username. Click `Link [Steam64ID]`.  
-![enter image description here](https://lh3.googleusercontent.com/W2TnP6mdOc0P_jULKu-wQZvYr8-bNwszT-lY19XgFT5p5C19jBZOjB3yVd0G6Tj-cchs4ufHogE)
-
-7. You're verified![enter image description here](https://lh3.googleusercontent.com/1uOA1tSQgY02_in_NJZ0ymz64tDwu-mlhHWaqUkHVlt37S-lEx80g7y_hu_9LHoRt0I9_g1Yoa8)
-
-8. 
-
-- To verify and update your in-game rank, send a direct message to ChessBot with the following command:  !r
-- Chessbot will DM you your current rank and role in a direct message. Make sure you have DMs enabled in Discord.
-- You can find Chessbot on the top-right corner of your screen in discord, and right-click its icon to DM.
+2.  Откройте Интеграции. Нажмите на иконку Steam.  
+    ![enter image description here](https://pp.userapi.com/c855228/v855228762/1a4e0/0GiN0I_xJBA.jpg)
     
-9. Go to a `#[rank]-lobbies` channel (e.g. `#beginner-lobbies`, `#intermediate-lobbies-eue` , etc) and have fun!
-	- Because of the heavy load on our discord server, sometimes the bot lobbies have been disabled. If this happens you can't write in the bot lobbies (e.g. #beginner-lobbies-euw). In that case use the lobbies labeled no-bot to find games manually.
+3.  Нажмите Войти. Если вы не подключены через браузер, то сделайте это.  
+    ![](https://pp.userapi.com/c844724/v844724630/1debc2/2-Gw2tqXrSY.jpg)
+    
+4.  Убедитесь, что Steam появился в вашем списке Discord Интеграций.  
+    ![enter image description here](https://pp.userapi.com/c855228/v855228762/1a50d/blAAuwwC1jU.jpg)
+    
+5.  Откройте ссылку: [autochessbot.vinthian.com](http://autochessbot.vinthian.com/). Убедитесь, что отображается, что Discord подключен к Steam, а имена пользователей Discord и Steam указаны правильно. Нажмите Авторизоваться.  
+    ![enter image description here](https://pp.userapi.com/c855228/v855228762/1a51e/kVFwjIC-RwU.jpg)
+    
+6.  Выберите нужный вам аккаунт (убедитесь что Steam64id верен).  
+    ![enter image description here](https://pp.userapi.com/c855228/v855228762/1a525/OyC1_NKdNxs.jpg)
+    
+7.  Вы успешно авторизованы.  
+    ![enter image description here](https://pp.userapi.com/c855228/v855228762/1a52c/vHioi6qMq88.jpg)
+    
+
+-   Что бы подтвердить и обновить ваш игровой ранг нужно отправить личное сообщение @ChessBot1 с соответствующей командой !r
+-   ChessBot отправит вам ваш ранг и роль в личные сообщения. Убедитесь, что вы не отключили личные сообщения в настройках приватности дискорда.
+-   Вы можете найти Chessbot в верхнем-правом углу вашего окна Discord, нажать на него правой кнопкой мыши и “Отправить сообщение”.
+
+9.  Перейдите в `#[rank]-lobbies` канал (например `#beginner-lobbies`, `#intermediate-lobbies-eue` , и т.д.) и наслаждайтесь игрой!
+    -   Из-за большой нагрузки на наш дискорд-сервер иногда лобби ботов могут быть отключены. Если это произойдет, вы не сможете писать в бот-лобби (например, # beginner-lobbies-euw). В этом случае используйте лобби с надписью «no-bot», чтобы найти игры вручную.
